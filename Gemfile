@@ -42,7 +42,6 @@ group :test do
   gem 'launchy'
   gem 'selenium-webdriver'
   gem 'cucumber-rails', :require => false
-  gem 'database_cleaner'
 end
 
 
