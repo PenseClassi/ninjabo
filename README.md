@@ -80,9 +80,11 @@ Development
 
 Getting Started
 
- git clone https://github.com/PenseClassi/ninjabo/ninjabo.git
- rake db:create db:migration db:seed
- rails server
+ ```
+ #> git clone https://github.com/PenseClassi/ninjabo/ninjabo.git
+ #> rake db:create db:migration db:seed
+ #> rails server
+ ```
 
 Documentation and Support
 
