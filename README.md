@@ -3,24 +3,9 @@ Ninjabo
 
 [![Code Climate](https://codeclimate.com/github/evenhorizon/jarvis.cms.png)](https://codeclimate.com/github/evenhorizon/jarvis.cms) [![Build Status](https://travis-ci.org/PenseClassi/ninjabo.svg?branch=master)](https://travis-ci.org/PenseClassi/ninjabo)
 
-This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
-provided by the [RailsApps Project](http://railsapps.github.io/).
+This a alpha project, probably it will not function as expected and has none applicability in the real life, it's just a push-over.
 
-Diagnostics
--
-
-This application was built with recipes that are known to work together.
-
-This application was built with preferences that are NOT known to work
-together.
-
-If the application doesn’t work as expected, please [report an issue](https://github.com/RailsApps/rails_apps_composer/issues)
-and include these diagnostics:
-
-We’d also like to know if you’ve found combinations of recipes or
-preferences that do work together.
-
-Recipes:
+Gems Used:
 
 * apps4
 * controllers
@@ -75,12 +60,10 @@ This application requires:
 -   Ruby
 -   Rails
 
-Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
-
 Database
 ---
 
-This application uses SQLite with ActiveRecord.
+This application uses Postgres with ActiveRecord.
 
 Development
 -
@@ -93,31 +76,18 @@ Development
 -   Authorization: None
 -   Admin: None
 
-
-
-
-
-
  delivery is disabled in development.
 
 Getting Started
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ git clone https://github.com/PenseClassi/ninjabo/ninjabo.git
+ rake db:create db:migration db:seed
+ rails server
 
 Documentation and Support
 
+ Documentation is still been constructed, later it will be avaliable here.
 
-This is the only documentation.
-
-#### Issues
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Similar Projects
--
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Contributing
 --
@@ -136,9 +106,6 @@ me and I’ll add a note to the README so that others can find your work.
 Credits
 --
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+All Pense Team at RBS
 
-License
---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
