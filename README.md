@@ -1,6 +1,8 @@
 Ninjabo
 =========
 
+[![Code Climate](https://codeclimate.com/github/evenhorizon/jarvis.cms.png)](https://codeclimate.com/github/evenhorizon/jarvis.cms) [![Build Status](https://travis-ci.org/PenseClassi/ninjabo.svg?branch=master)](https://travis-ci.org/PenseClassi/ninjabo)
+
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
 
